@@ -1,0 +1,17 @@
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.deps.json
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.runtimeconfig.json
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.runtimeconfig.dev.json
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.pdb
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.csprojAssemblyReference.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.csproj.CoreCompileInputs.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.AssemblyInfoInputs.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.AssemblyInfo.cs
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.pdb
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.pdb
+/home/ejb/sandbox/StatlerWaldorfCorp/test/StatlerWaldorfCorp.TeamService.Tests/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.Tests.csproj.CopyComplete

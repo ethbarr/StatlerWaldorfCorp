@@ -1,0 +1,14 @@
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.deps.json
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.runtimeconfig.json
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.pdb
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.csprojAssemblyReference.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.csproj.CoreCompileInputs.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.RazorAssemblyInfo.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.RazorAssemblyInfo.cs
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.RazorTargetAssemblyInfo.cache
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.dll
+/home/ejb/sandbox/StatlerWaldorfCorp/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.2/StatlerWaldorfCorp.TeamService.pdb
