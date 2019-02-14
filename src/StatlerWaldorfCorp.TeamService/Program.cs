@@ -12,13 +12,28 @@ namespace StatlerWaldorfCorp.TeamService
 {
     public class Program
     {
+        // public static void Main(string[] args)
+        // {
+        //     CreateWebHostBuilder(args).Build().Run();
+        // }
+
+        // public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
+        //     WebHost.CreateDefaultBuilder(args)
+        //         .UseStartup<Startup>();
+
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
-        }
+            var config = new ConfigurationBuilder()
+                .AddCommandLine(args)
+            	.Build();
 
-        public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>();
+            var host = new WebHostBuilder()
+                .UseKestrel()
+                .UseStartup<Startup>()
+                .UseConfiguration(config)
+                .Build();
+
+            host.Run();            
+        }
     }
 }
